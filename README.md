@@ -1,3 +1,3 @@
 # hello-word6
-��ʱ��
+就是啊
 zenme
